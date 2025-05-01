@@ -1,0 +1,11 @@
+{
+    "name": "nft-generator",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Berke (pzzaworks)",
+    "license": "MIT",
+    "dependencies": {
+      "canvas": "^2.10.1",
+      "fs-extra": "^10.1.0"
+    }
+  }
